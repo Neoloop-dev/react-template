@@ -12,4 +12,4 @@ const AppRoutes = () => (
   </Switch>
 );
 
-export { AppRoutes };
+export { AppRoutes, routes };
